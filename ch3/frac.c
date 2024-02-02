@@ -6,7 +6,7 @@ int main(void)
 {
     int num1, denom1, num2, denom2, result_num, result_dom;
 
-    printf("Enter the first fraction:");
+    printf("Enter the first fraction");
     scanf("%d/%d", &num1, &denom1);
 
     printf("Enter the second fraction:");
